@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "irzXy+5y6oexIiluFuQ2lBEr3ZWgqk7RQUkpWQJ+Z5mnDyRv6dCQwmH6+ino1OIejnXQPH/B5ngsp9sMsCovBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joao\\source\\repos\\Trabalho_CSharp\\Trabalho_CSharp\\Trabalho_CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
